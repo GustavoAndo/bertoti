@@ -92,4 +92,54 @@ Como exemplo de um site que é possível uma navegação bem interessante é o W
 
 ![Imagem mostrando o indíce navegável do Wikipedia](imagens/2.4.1-navigable.png)
 
-### Contraexemplo:
+#### Contraexemplo:
+
+### 2.5 Input Modalities
+
+## 3. Understable
+
+### 3.1 Readable
+
+O conteúdo deve ser legível e compreensível para qualquer pessoa para melhor experiência.
+
+#### Exemplo:
+
+No site de G1, como ele é de notícias, ou seja, utiliza-se bastante da linguagem verbal, é interessante que seja legível e compreensível seu texto. Nesse caso, ele utiliza letras do tamanho interessante para leitura:
+
+![]()
+
+#### Contraexemplo:
+
+As letras utilizadas no site do Siga, no menu e em alguns locais de texto, possui letras muito pequenas, o que dificulta na leitura e para encontrar informações que o usuário precisa:
+
+![]()
+
+### 3.2 Predictable:
+
+As páginas Webs devem ser intuitivas e previsível pelo usuário.
+
+#### Exemplo:
+
+#### Contraexemplo:
+
+### 3.3 Input Assistance
+
+Os usuários precisam de ser ajudados a evitar e a corrigir erros.
+
+#### Exemplo:
+
+No site de vídeos Youtube, é fácil para o usuário saber, por exemplo, se o vídeos está carregando (com um circulo rodando) ou, então, quanto tempo de vídeo já foi carregado (cinza mais claro):
+
+![]()
+
+#### Contraexemplo:
+
+## 4. Robust
+
+### 4.1 Compatible
+
+Todo software deve ser compatível para o usuário e tecnologias utilizadas.
+
+#### Exemplo:
+
+#### Contraexemplo:
