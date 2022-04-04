@@ -106,19 +106,23 @@ O conteúdo deve ser legível e compreensível para qualquer pessoa para melhor 
 
 No site de G1, como ele é de notícias, ou seja, utiliza-se bastante da linguagem verbal, é interessante que seja legível e compreensível seu texto. Nesse caso, ele utiliza letras do tamanho interessante para leitura:
 
-![]()
+![Imagem mostrando que no site da G1 é legível](imagens/3.1.1-readable.png)
 
 #### Contraexemplo:
 
 As letras utilizadas no site do Siga, no menu e em alguns locais de texto, possui letras muito pequenas, o que dificulta na leitura e para encontrar informações que o usuário precisa:
 
-![]()
+![Mostrando que no site do SIGA as letras são quase ilegíveis](imagens/3.1.2-readable.png)
 
 ### 3.2 Predictable:
 
 As páginas Webs devem ser intuitivas e previsível pelo usuário.
 
 #### Exemplo:
+
+No site de vídeos Youtube, é fácil para o usuário saber, por exemplo, o que cada opção de reprodução de vídeo faz (pausar, volume, configurações, legendas etc.), se o vídeos está carregando (com um circulo rodando) ou, então, quanto tempo de vídeo já foi carregado (cinza mais claro):
+
+![Imagem mostrando que o site do Youtube é intuitivo](imagens/3.2.1-predictable.png)
 
 #### Contraexemplo:
 
@@ -127,10 +131,6 @@ As páginas Webs devem ser intuitivas e previsível pelo usuário.
 Os usuários precisam de ser ajudados a evitar e a corrigir erros.
 
 #### Exemplo:
-
-No site de vídeos Youtube, é fácil para o usuário saber, por exemplo, se o vídeos está carregando (com um circulo rodando) ou, então, quanto tempo de vídeo já foi carregado (cinza mais claro):
-
-![]()
 
 #### Contraexemplo:
 
