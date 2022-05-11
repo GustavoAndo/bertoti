@@ -1,6 +1,6 @@
 # Avaliação das Heurísticas 
 
-De acordo com [WCAG/W3C](https://www.w3.org/WAI/WCAG21/quickref/), será apresentado neste texto, exemplos e contraexemplos sobre a aplicação dos tópicos das heurísticas apresentadas neste site.
+De acordo com [WCAG/W3C](https://www.w3.org/WAI/WCAG21/quickref/), será apresentado neste texto, exemplos e contraexemplos sobre a aplicação de alguns tópicos das heurísticas apresentadas neste site.
 ***
 ## 1 Perceivable
 
@@ -21,8 +21,6 @@ Como contraexemplo, nós não encontramos nenhuma descrição de imagem no parâ
 ### 1.2 Time-based Media
 
 Aqui, é esperado que possua outra alternativa para vídeos e áudios.
-
-#### Exemplo:
 
 #### Contraexemplo:
 Os vídeos que aparecem no site da G1 não são apresentados em outras alternativas:
@@ -77,12 +75,6 @@ Um exemplo de software que utiliza isso é o Word. Ao apertar a tecla alt no pro
 
 ![Imagem mostrando acessiblidade pelo teclado no word](imagens/2.1.1-keyboard-acessible.png)
 
-#### Contraexemplo:
-
-### 2.2 Enough Time
-
-### 2.3 Seizures and Pysical Reactions
-
 ### 2.4 Navigable
 
 Navegar pelo site de forma precisa e fazendo com que o usuário consiga encontrar o que ele precisa, é essencial para sua experiência de uso.
@@ -93,8 +85,6 @@ Como exemplo de um site que é possível uma navegação bem interessante é o W
 ![Imagem mostrando o indíce navegável do Wikipedia](imagens/2.4.1-navigable.png)
 
 #### Contraexemplo:
-
-### 2.5 Input Modalities
 
 ## 3. Understable
 
@@ -132,14 +122,6 @@ Os usuários precisam de ser ajudados a evitar e a corrigir erros.
 
 #### Exemplo:
 
-#### Contraexemplo:
+Ao tentar logar na sua conta do Google e errar o seu gmail, por exemplo, é exibido uma mensagem de erro no campo e é informado que não foi encontrada:
 
-## 4. Robust
-
-### 4.1 Compatible
-
-Todo software deve ser compatível para o usuário e tecnologias utilizadas.
-
-#### Exemplo:
-
-#### Contraexemplo:
+![Imagem do erro de login na conta do Google](imagens/3.3.1-input-assistance.png)
