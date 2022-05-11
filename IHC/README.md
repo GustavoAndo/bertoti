@@ -84,8 +84,6 @@ Como exemplo de um site que é possível uma navegação bem interessante é o W
 
 ![Imagem mostrando o indíce navegável do Wikipedia](imagens/2.4.1-navigable.png)
 
-#### Contraexemplo:
-
 ## 3. Understable
 
 ### 3.1 Readable
