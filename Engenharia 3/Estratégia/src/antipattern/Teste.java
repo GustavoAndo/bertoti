@@ -22,6 +22,11 @@ public class Teste {
 		maca.equipar();
 		
 		System.out.println("--------------------------------");
+		
+		Equipamento armadura = new Armadura();
+		armadura.equipar();
+		
+		System.out.println("--------------------------------");
 			
 	}
 	
