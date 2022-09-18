@@ -1,3 +1,3 @@
 # Diagrama de Classes do padrão Strategy
 
-![Diagrama de Classes do padrão Strategy](pattern/diagrama-classe.png)
+![Diagrama de Classes do padrão Strategy](diagrama-classe.png)
