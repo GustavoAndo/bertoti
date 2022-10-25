@@ -1,5 +1,5 @@
 package pattern;
 
-public abstract interface Produto {
-
+public interface Produto {
+	public void buy();
 }
