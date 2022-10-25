@@ -1,3 +1,3 @@
 # Diagrama de Classes do padrão Facade
 
-![Diagrama de Classes do padrão Strategy](diagrama-classe-facade.png)
+![Diagrama de Classes do padrão Facade](diagrama-classe-facade.png)
