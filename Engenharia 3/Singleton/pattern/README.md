@@ -1,3 +1,3 @@
 # Diagrama de Classes do padrão Singleton
 
-![Diagrama de Classes do padrão Strategy](diagrama-classe-singleton.png)
+![Diagrama de Classes do padrão Singleton](diagrama-classe-singleton.png)
